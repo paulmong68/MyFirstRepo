@@ -1,6 +1,1 @@
-ste@jyste.tw
-smtp.office365.com
-587
-C:\temp\
-Jy60233881
-LST
+helloworld.txt
